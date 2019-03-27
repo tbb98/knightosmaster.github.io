@@ -1,2 +1,1 @@
-# knightos.github.io
-https://knightos.github.io
+https://knightosmaster.github.io
