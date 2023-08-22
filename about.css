@@ -1,0 +1,11 @@
+.main {
+    padding: 20px;
+}
+
+.main h1, .main h2 {
+    color: #333;
+}
+
+.main p {
+    text-align: justify;
+}
